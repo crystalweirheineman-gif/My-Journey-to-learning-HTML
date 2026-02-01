@@ -1,12 +1,15 @@
-
 body {
-  background-image: url("images/1769979231396-82bbf1d3-6e68-41cb-830hgg2-61889aafbf6c.png");
+  background-image: url("images/light.png");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
 
+
 .hero {
+  background-image: url("images/dark.png");
+  background-size: cover;
+  background-position: center;
   height: 300px;
   border-radius: 12px;
   margin: 20px 0;
