@@ -5,8 +5,10 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
-  background-image: url("1769979231396-82bbf1d3-6e68-41cb-8ghfhgkhj30hgg2-61889aafbf6c.png");
+
+.hero {
+  background-image: url("images/dark-map.png");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
+  height: 300px;
 }
