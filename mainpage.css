@@ -20,3 +20,11 @@ font-family: "Goudy Old Style", Garamond, serif;
   color: rgba(115, 132, 77, 1);
 
 }
+.page {
+  max-width: 1000px;
+  margin: 40px auto;
+  padding: 20px;
+
+  background: rgba(255,255,255,0.85);
+  border-radius: 12px;
+}
